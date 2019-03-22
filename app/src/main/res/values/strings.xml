@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent2</string>
+    <string name="edittext_uri">http://www.polinema.ac.id</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Jakarta, Indonesia</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">Belajar Android itu menyenangkan!</string>
+    <string name="button_share">Share This Text</string>
+
+</resources>
+
